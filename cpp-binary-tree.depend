@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1547128057 source:/home/exlight/code/cpp-binary-tree/main.cpp
+	<iostream>
+	"BinarryTree.h"
+
+1547127900 /home/exlight/code/cpp-binary-tree/include/BinarryTree.h
+	"Node.h"
+	"commands.h"
+	<cstddef>
+	<string>
+
+1547133999 /home/exlight/code/cpp-binary-tree/include/Node.h
+	<string>
+
+1547128111 /home/exlight/code/cpp-binary-tree/include/commands.h
+
+1547133818 source:/home/exlight/code/cpp-binary-tree/src/BinarryTree.cpp
+	"BinarryTree.h"
+	"Node.h"
+	"commands.h"
+	<cstddef>
+	<iostream>
+
+1547135703 source:/home/exlight/code/cpp-binary-tree/src/Node.cpp
+	"Node.h"
+	<cstddef>
+	<iostream>
+	<cstdlib>
+	<string>
+
